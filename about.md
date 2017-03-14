@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Rivers Yung
+- 目前就读于某工业大学
+- 学业不精，忝列其中
+
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+走走停停，一直没有止步
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[riversyung@gmail.com](riversyung@gmail.com)
